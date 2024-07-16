@@ -28,6 +28,8 @@ npm install
 npm run dev
 ```
 
+Acesse http://localhost:5173 para visualizar a aplicação.
+
 ## 🙏 Reconhecimentos 
 JourneyCrew Frontend foi desenvolvido como parte do evento NLW da RocketSeat. Agradecimentos especiais aos mentores e à comunidade pelo apoio.
   
