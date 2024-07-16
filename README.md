@@ -2,7 +2,7 @@
 
 **JourneyCrew** é um aplicativo de planejamento de viagens desenvolvido para ajudar os usuários a organizar suas viagens de maneira eficaz. Com este aplicativo, os usuários podem salvar datas de viagem, compartilhar acesso com familiares e amigos, e criar agendas detalhadas para suas atividades.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - **Gestão Dinâmica de Membros da Equipe:** Gerencie membros da equipe com facilidade, com opções para adicionar, remover e convidar.
 - **Convites por Email:** Envie convites por email, permitindo gerenciar tanto convites individuais quanto de grupos.
@@ -18,6 +18,18 @@
 - React Day Picker
 - React Router DOM
 - Tailwind Variants
+
+## ▶️ Executando
+
+Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
+
+```sh
+npm install
+npm run dev
+```
+
+## 🙏 Reconhecimentos 
+JourneyCrew Frontend foi desenvolvido como parte do evento NLW da RocketSeat. Agradecimentos especiais aos mentores e à comunidade pelo apoio.
   
 ## 🚧 Layout
 
