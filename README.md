@@ -35,7 +35,7 @@ JourneyCrew Frontend foi desenvolvido como parte do evento NLW da RocketSeat. Ag
   
 ## 🚧 Layout
 
-<a href="https://www.figma.com/design/5mfc5PpPMX5KbdIzROZih8/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=3-376&t=FCceq24pxwbeW6qc-0" target="_blank">
+<a href="https://www.figma.com/design/5mfc5PpPMX5KbdIzROZih8/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=3-376&t=FCceq24pxwbeW6qc-0" target="__blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
 </a>
 
